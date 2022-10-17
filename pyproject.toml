@@ -10,6 +10,8 @@ packages = [{include = "introduction_spark"}]
 python = "^3.10"
 pyspark = {extras = ["pandas-on-spark"], version = "^3.3.0"}
 plotly = "^5.10.0"
+ipykernel = "^6.16.0"
+jupyterlab = "^3.4.8"
 
 
 [build-system]
