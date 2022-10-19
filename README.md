@@ -1,6 +1,9 @@
 # 概要
 このリポジトリはインターン先の勉強会のため作成されました．Pythonの紹介からPySparkの使い方まで網羅しました．具体的には，pandasとSQL，PySparkの文法をそれぞれ比較し，pandasとPysparkの性質の違いをまとめました．その結果，状況に応じて適切にツールを選ぶ必要があることがわかりました．
 
+http://127.0.0.1:8000/pyspark.slides.html#/
+
+
 # 環境構築
 ```
 brew install pyenv
