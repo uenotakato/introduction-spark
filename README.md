@@ -1,7 +1,6 @@
 # 概要
 このリポジトリはインターン先の勉強会のため作成されました．Pythonの紹介からPySparkの使い方まで網羅しました．具体的には，pandasとSQL，PySparkの文法をそれぞれ比較し，pandasとPysparkの性質の違いをまとめました．その結果，状況に応じて適切にツールを選ぶ必要があることがわかりました．
 
-<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/3387151e88d744218e9d48c3e21d508d" title="Python for Data science &amp; beyond; pandas for beginners &amp; a bridge to PySpark" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background-color: rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; -webkit-background-clip: padding-box; -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 408px;" data-ratio="1.3725490196078431"></iframe>
 
 
 
