@@ -2,7 +2,7 @@
 このリポジトリはインターン先の勉強会のため作成されました．Pythonの紹介からPySparkの使い方まで網羅しました．具体的には，pandasとSQL，PySparkの文法をそれぞれ比較し，pandasとPysparkの性質の違いをまとめました．その結果，状況に応じて適切にツールを選ぶ必要があることがわかりました．
 
 # スライド
-発表資料のリンクです．
+発表資料のリンクです．  
 https://speakerdeck.com/uenotakato/python-for-data-science-pandas-for-beginners-and-a-bridge-to-pyspark
 
 # 環境構築
